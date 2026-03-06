@@ -1,5 +1,13 @@
-## Hi there 👋
+# Hi, I'm Bamisaye Oluwafemi 👋
+Backend & Database Engineer | Data Analyst
 
+I'm a backend & database engineer and entry-level data analyst focused on building scalable solutions and deriving insights from data.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+📫 How to reach me: [Email] (contactoluwafemi01@gmail.com)
 <!--
 **dev-oluwafemi/dev-oluwafemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
