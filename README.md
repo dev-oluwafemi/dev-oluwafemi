@@ -33,21 +33,16 @@ I build scalable backend systems, design efficient databases, and develop secure
 
 ## 🚀 Tech Stack
 
-Backend:
-- Node.js
-- Express.js
-- REST APIs
-
-Databases:
-- MySQL
-- SQL
-- Database Design
-
-Tools:
-- Git
-- GitHub
-- Postman
-- VS Code
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-0052CC?style=for-the-badge&logo=none&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=none&logoColor=white)
+![Database Design](https://img.shields.io/badge/Database_Design-FF6C37?style=for-the-badge&logo=none&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 📊 Currently Learning
 
